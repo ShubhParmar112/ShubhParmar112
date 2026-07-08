@@ -9,9 +9,9 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 </p>
 
 <p align="center">
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/shubh-parmar-161a45315/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shubh-parmar-161a45315/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shubh.parmar.999@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="[YOUR_KAGGLE](https://www.kaggle.com/shubhparmar69)"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://www.kaggle.com/shubhparmar69"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
 ---
@@ -30,13 +30,13 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 📄 **Publications**
 
 - **A Compendium of the Latest Erudite Analyses of the Shifting Intricacies Within the Bitcoin Ecosystem**
-  - 🔗 [Read Paper]([YOUR_PAPER_LINK_1](https://theaspd.com/index.php/ijes/article/view/4713))
+  - 🔗 [Read Paper](https://theaspd.com/index.php/ijes/article/view/4713)
 
 - **Middle Man's Path: A Novel Transportation Optimization Approach**
-  - 🔗 [Read Paper]([YOUR_PAPER_LINK_2](https://ieeexplore.ieee.org/document/11294751))
+  - 🔗 [Read Paper](https://ieeexplore.ieee.org/document/11294751)
 
 - **Refinement of the Existing Mid-Point Circle Generating Algorithm**
-  - 🔗 [Read Paper]([YOUR_PAPER_LINK_3](https://ieeexplore.ieee.org/document/10932192))
+  - 🔗 [Read Paper](https://ieeexplore.ieee.org/document/10932192)
 
 ---
 
@@ -65,7 +65,7 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 
 **Libraries**
 
-`Scikit-Learn` • `Pandas` • `NumPy` • `OpenCV` • `Matplotlib` • `Keras` • `Seaborn`
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `OpenCV` • `Tensorflow` • `Keras` 
 
 ---
 
@@ -86,7 +86,7 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhParmar112&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=ShubhParmar112&theme=tokyonight"/>
 </p>
 
 ---
