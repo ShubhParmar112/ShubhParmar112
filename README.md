@@ -21,7 +21,6 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 - 🎓 Integrated B.Tech in **Data Science** at **SVKM's NMIMS MPSTME, Mumbai**
 - 🤖 Passionate about **Machine Learning, Computer Vision, Generative AI & Data Analytics**
 - 🚀 Currently building AI-powered applications with Python and Django
-- 💡 Interested in solving real-world problems through intelligent systems
 
 ---
 
