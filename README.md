@@ -9,9 +9,9 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/shubh-parmar-161a45315/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shubh.parmar.999@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="[YOUR_KAGGLE](https://www.kaggle.com/shubhparmar69)"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
 ---
@@ -19,10 +19,24 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 ## 👨‍💻 About Me
 
 - 🎓 Integrated B.Tech in **Data Science** at **SVKM's NMIMS MPSTME, Mumbai**
-- 📚 Published **3+ research papers** in AI, Blockchain Analytics & Optimization
-- 🎤 Presented research at an **International Conference**
-- 🤖 Passionate about **Machine Learning, Computer Vision & Generative AI**
+- 🤖 Passionate about **Machine Learning, Computer Vision, Generative AI & Data Analytics**
 - 🚀 Currently building AI-powered applications with Python and Django
+- 💡 Interested in solving real-world problems through intelligent systems
+
+---
+
+## 🔬 Research
+
+📄 **Publications**
+
+- **A Compendium of the Latest Erudite Analyses of the Shifting Intricacies Within the Bitcoin Ecosystem**
+  - 🔗 [Read Paper]([YOUR_PAPER_LINK_1](https://theaspd.com/index.php/ijes/article/view/4713))
+
+- **Middle Man's Path: A Novel Transportation Optimization Approach**
+  - 🔗 [Read Paper]([YOUR_PAPER_LINK_2](https://ieeexplore.ieee.org/document/11294751))
+
+- **Refinement of the Existing Mid-Point Circle Generating Algorithm**
+  - 🔗 [Read Paper]([YOUR_PAPER_LINK_3](https://ieeexplore.ieee.org/document/10932192))
 
 ---
 
@@ -46,12 +60,12 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 **Frameworks & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,django,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,django,git,github,vscode"/>
 </p>
 
 **Libraries**
 
-`Scikit-Learn` • `Pandas` • `NumPy` • `OpenCV` • `Matplotlib` • `Keras`
+`Scikit-Learn` • `Pandas` • `NumPy` • `OpenCV` • `Matplotlib` • `Keras` • `Seaborn`
 
 ---
 
@@ -60,7 +74,6 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 - 🌾 **AgriGPT** — AI-powered crop recommendation system
 - 🔐 **Multi-Modal Biometric Authentication System**
 - 😊 **Speech Emotion Recognition using Deep Learning**
-- 📈 **Bitcoin Ecosystem Research**
 - 🧱 **Material Classification using CNN**
 
 ---
@@ -68,19 +81,19 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShubhParmar112&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhParmar112&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhParmar112&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)](https://github.com/YOUR_USERNAME)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShubhParmar112&theme=github-compact)](https://github.com/ShubhParmar112)
 
 ---
 
