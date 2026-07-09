@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shubh Parmar</h1>
+<h1 align="center">
+Hi, I'm <span style="color:#58A6FF;">Shubh Parmar</span> 👋
+</h1>
 
 <h3 align="center">
-Data Science Undergraduate | AI Researcher | Machine Learning Engineer
+Data Science Undergraduate | Published Researcher | Machine Learning Engineer
 </h3>
 
 <p align="center">
