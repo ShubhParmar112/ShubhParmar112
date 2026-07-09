@@ -70,12 +70,12 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhParmar112&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShubhParmar112&layout=compact&theme=calm"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhParmar112&show_icons=true&theme=gotham"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShubhParmar112&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=ShubhParmar112&theme=buefy"/>
+<img height="170" src="https://streak-stats.demolab.com?user=ShubhParmar112&theme=tokyonight"/>
 </p>
 
 ---
