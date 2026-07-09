@@ -24,9 +24,7 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 
 ---
 
-## 🔬 Research
-
-📄 **Publications**
+## 🔬 Research Publications
 
 - **Refinement of the Existing Mid-Point Circle Generating Algorithm** [[Read Paper]](https://ieeexplore.ieee.org/document/10932192)
 
@@ -36,12 +34,14 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Featured Projects & Current Focus
 
-- 🌾 AgriGPT – AI-powered Crop Recommendation System
-- 🔐 Multi-Modal Biometric Authentication
-- 🤖 Agentic AI & LLM Applications
-- 📊 Machine Learning & Deep Learning Projects
+- 🌾 **AgriGPT** — AI-powered crop recommendation system
+- 🔐 **Multi-Modal Biometric Authentication System** *(Currently Building)*
+- 🤖 **Exploring Agentic AI & LLM Applications**
+- 📊 **Building Machine Learning & Deep Learning Projects**
+- 😊 **Speech Emotion Recognition using Deep Learning**
+- 🧱 **Material Classification using CNN**
 
 ---
 
@@ -62,15 +62,6 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 **Libraries**
 
 `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `OpenCV` • `Tensorflow` • `Keras` 
-
----
-
-## ⭐ Featured Projects
-
-- 🌾 **AgriGPT** — AI-powered crop recommendation system
-- 🔐 **Multi-Modal Biometric Authentication System**
-- 😊 **Speech Emotion Recognition using Deep Learning**
-- 🧱 **Material Classification using CNN**
 
 ---
 
