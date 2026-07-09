@@ -28,14 +28,11 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 
 📄 **Publications**
 
-- **A Compendium of the Latest Erudite Analyses of the Shifting Intricacies Within the Bitcoin Ecosystem**
-  - 🔗 [Read Paper](https://theaspd.com/index.php/ijes/article/view/4713)
+- **Refinement of the Existing Mid-Point Circle Generating Algorithm** [[Read Paper]](https://ieeexplore.ieee.org/document/10932192)
 
-- **Middle Man's Path: A Novel Transportation Optimization Approach**
-  - 🔗 [Read Paper](https://ieeexplore.ieee.org/document/11294751)
+- **Middle Man's Path: A Novel Transportation Optimization Approach** [[Read Paper]](https://ieeexplore.ieee.org/document/11294751)
 
-- **Refinement of the Existing Mid-Point Circle Generating Algorithm**
-  - 🔗 [Read Paper](https://ieeexplore.ieee.org/document/10932192)
+- **A Compendium of the Latest Erudite Analyses of the Shifting Intricacies Within the Bitcoin Ecosystem** [[Read Paper]](https://theaspd.com/index.php/ijes/article/view/4713)
 
 ---
 
