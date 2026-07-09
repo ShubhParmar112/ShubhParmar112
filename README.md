@@ -20,9 +20,9 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 
 ## 👨‍💻 About Me
 
-- 🎓 Integrated B.Tech in **Data Science** at **SVKM's NMIMS MPSTME, Mumbai**
-- 🤖 Passionate about **Machine Learning, Computer Vision, Generative AI & Data Analytics**
-- 🚀 Currently building AI-powered applications with Python and Django
+- B.Tech Integrated in **Data Science** at **SVKM's NMIMS MPSTME, Mumbai** 🎓 
+- Passionate about **Machine Learning, Computer Vision, Generative AI & Data Analytics** 🤖 
+- Building AI-powered applications with Python and Django 🚀 
 
 ---
 
@@ -38,12 +38,12 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 
 ## 🚀 Featured Projects & Current Focus
 
-- 🌾 **AgriGPT** — AI-powered crop recommendation system
-- 🔐 **Multi-Modal Biometric Authentication System** *(Currently Building)*
-- 🤖 **Exploring Agentic AI & LLM Applications**
-- 📊 **Building Machine Learning & Deep Learning Projects**
-- 😊 **Speech Emotion Recognition using Deep Learning**
-- 🧱 **Material Classification using CNN**
+- **AgriGPT**: AI-powered crop recommendation system 🌾
+- **Multi-Modal Biometric Authentication System** *(Currently Building)* 🔐
+- **Exploring Agentic AI & LLM Applications** 🤖
+- **Building Machine Learning & Deep Learning Projects** 📊
+- **Speech Emotion Recognition using Deep Learning** 😊
+- **Material Classification using CNN** 🧱
 
 ---
 
