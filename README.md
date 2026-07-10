@@ -60,7 +60,7 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,django,git,github,vscode"/>
 <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48"/>
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" style="background:white; padding:6px; border-radius:8px;"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" style="background:#ffffff; padding:8px; border-radius:12px; box-sizing:border-box;"/>
 <!--<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>-->
 </p>
 
