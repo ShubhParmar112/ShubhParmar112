@@ -58,8 +58,8 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 **Frameworks & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,django,git,github,vscode"/>
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,django,git,github,vscode,anaconda"/>
+<!--<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48"/>-->
 </p>
 
 **Libraries**
