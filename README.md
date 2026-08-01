@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm <span style="color:#58A6FF;">Shubh Parmar</span> 👋
+Hi, I'm <span style="color:#58A6FF;">Shubh Parmar</span>👋
 </h1>
 
 <h3 align="center">
@@ -58,13 +58,13 @@ Building intelligent solutions using Machine Learning, Deep Learning, Computer V
 **Frameworks & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,django,git,github,vscode,anaconda"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,django,git,github,vscode,anaconda,opencv"/>
 <!--<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48"/>-->
 </p>
 
 **Libraries**
 
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `OpenCV` • `Tensorflow` • `Keras` 
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `Tensorflow` • `Keras` 
 
 ---
 
