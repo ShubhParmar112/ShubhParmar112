@@ -1,0 +1,65 @@
+name: Profile cards
+
+# Rebuilds the contribution heatmap, the stats card and the snake animation,
+# then publishes all three to the `output` branch. The README reads them from
+# there, so nothing in the profile depends on a third-party rendering service.
+
+on:
+  schedule:
+    - cron: "17 2 * * *" # daily, 02:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # PROFILE_TOKEN is optional: a classic PAT with `read:user` + `public_repo`.
+      # The built-in GITHUB_TOKEN covers the public contribution calendar, but a
+      # PAT is the documented path and avoids surprises if that ever tightens.
+      - name: Build the heatmap and stats cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/profile_cards.py \
+            --login "${{ github.repository_owner }}" \
+            --out cards
+
+      - name: Build the snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            cards/snake.svg?palette=github-light
+            cards/snake-dark.svg?palette=github-dark
+
+      - name: Show what was produced
+        run: ls -la cards
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: cards
+          commit_message: "chore: rebuild profile cards"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

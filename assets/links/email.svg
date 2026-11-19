@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102 56" width="102" height="56" role="img" aria-label="Email Shubh Parmar">
+  <title>Email Shubh Parmar</title>
+  <rect x="0.75" y="0.75" width="100.5" height="54.5" rx="12" fill="#0E1730" stroke="#243457" stroke-width="1.5"/>
+  <g transform="translate(17 16) scale(1)" fill="#FF7B72">
+    <path d="M1.5 4.5h21A1.5 1.5 0 0124 6v12a1.5 1.5 0 01-1.5 1.5h-21A1.5 1.5 0 010 18V6a1.5 1.5 0 011.5-1.5zm.9 2.1v.63l9.6 6.27 9.6-6.27V6.6H2.4zm19.2 3.18l-8.97 5.85a1.2 1.2 0 01-1.26 0L2.4 9.78v7.62h19.2V9.78z" transform="scale(1)"/>
+  </g>
+  <text x="51" y="34.5" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="500" fill="#C8D7F2">Email</text>
+</svg>

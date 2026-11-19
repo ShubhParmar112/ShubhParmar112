@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="Transforming data into intelligent solutions — Shubh Parmar">
+  <title>Transforming data into intelligent solutions — Shubh Parmar</title>
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0F1E"/>
+      <stop offset="100%" stop-color="#101A33"/>
+    </linearGradient>
+    <linearGradient id="fline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4F9CF9" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#2DD4BF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#4F9CF9" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="fcard"><rect width="1200" height="120" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#fcard)">
+    <rect width="1200" height="120" fill="url(#fbg)"/>
+    <g stroke="#4F9CF9" stroke-opacity="0.18" stroke-width="1" fill="none">
+      <path d="M0 96 Q 150 60 300 84 T 600 72 T 900 90 T 1200 66"/>
+      <path d="M0 110 Q 150 80 300 100 T 600 92 T 900 106 T 1200 86" stroke-opacity="0.1"/>
+    </g>
+    <rect x="0" y="0" width="1200" height="2" fill="url(#fline)"/>
+    <text x="600" y="56" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="25" font-style="italic" font-weight="500" fill="#C3D3EE">&#8220;Transforming data into intelligent solutions.&#8221;</text>
+    <text x="600" y="86" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3.5" fill="#6B80A6">THANKS FOR STOPPING BY</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="119" rx="14" fill="none" stroke="#223055"/>
+</svg>
