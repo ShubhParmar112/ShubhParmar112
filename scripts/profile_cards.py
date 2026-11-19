@@ -69,6 +69,12 @@ def esc(text):
             .replace(">", "&gt;").replace('"', "&quot;"))
 
 
+def count(n, singular, plural=None):
+    """'1 PR', '2 PRs' — the footer reads wrong without this."""
+    word = singular if n == 1 else (plural or singular + "s")
+    return "{:,} {}".format(n, word)
+
+
 def fetch(login, token):
     to = datetime.now(timezone.utc).replace(microsecond=0)
     frm = to - timedelta(days=364)
@@ -170,8 +176,9 @@ def build_heatmap(user):
     out.append(
         '  <text x="{x}" y="40" text-anchor="end" font-family="{f}" font-size="15" fill="{m}">'
         '<tspan fill="{t}" font-weight="600" font-size="17">{n:,}</tspan>'
-        ' contributions &#183; last 12 months</text>'.format(
-            x=width - 26, f=FONT, m=MUTED, t=TEAL, n=total))
+        ' contribution{s} &#183; last 12 months</text>'.format(
+            x=width - 26, f=FONT, m=MUTED, t=TEAL, n=total,
+            s="" if total == 1 else "s"))
 
     # month labels
     seen = set()
@@ -301,15 +308,16 @@ def build_stats(user):
             '{n} <tspan fill="{d}">{p:.1f}%</tspan></text>'.format(
                 x=x + 18, y=y, f=FONT, t=TEXT, n=esc(name), d=DIM, p=pct))
 
+    footer = " &#183; ".join([
+        count(cc["totalCommitContributions"], "commit"),
+        count(cc["totalPullRequestContributions"], "PR"),
+        count(cc["totalIssueContributions"], "issue"),
+        count(forks, "fork"),
+        "last 12 months",
+    ])
     out.append(
         '  <text x="26" y="{y}" font-family="{f}" font-size="12" fill="{d}">'
-        '{commits:,} commits &#183; {prs:,} PRs &#183; {issues:,} issues &#183; '
-        '{forks} forks &#183; last 12 months</text>'.format(
-            y=height - 20, f=FONT, d=DIM,
-            commits=cc["totalCommitContributions"],
-            prs=cc["totalPullRequestContributions"],
-            issues=cc["totalIssueContributions"],
-            forks=forks))
+        '{t}</text>'.format(y=height - 20, f=FONT, d=DIM, t=footer))
     out.append("</svg>")
     return "\n".join(out)
 
