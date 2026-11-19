@@ -5,6 +5,9 @@
   </picture>
 </div>
 
+<br>
+<br>
+
 <div align="center">
   <a href="https://github.com/ShubhParmar112"><img src="assets/links/github.svg" height="48" alt="GitHub: ShubhParmar112"></a>
   <a href="https://www.linkedin.com/in/shubh-parmar-161a45315/"><img src="assets/links/linkedin.svg" height="48" alt="LinkedIn: Shubh Parmar"></a>
@@ -12,8 +15,6 @@
   <a href="https://shubhparmar112.github.io/"><img src="assets/links/portfolio.svg" height="48" alt="Portfolio: shubhparmar112.github.io"></a>
   <a href="mailto:shubh.parmar.999@gmail.com"><img src="assets/links/email.svg" height="48" alt="Email Shubh Parmar"></a>
 </div>
-
-<br>
 
 ### 01 · About
 
